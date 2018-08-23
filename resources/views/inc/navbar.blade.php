@@ -15,6 +15,9 @@
             <li class="nav-item">
                     <a class="nav-link" href="/services">Our Services</a>
                   </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="/posts">Blog</a>
+                    </li>
           </ul>
           <form class="form-inline my-2 my-md-0">
             <input class="form-control" type="text" placeholder="Search">
