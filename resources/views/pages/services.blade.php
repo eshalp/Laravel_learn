@@ -11,5 +11,5 @@
     </ul>
 @endif
 
-<p>This is services page from scratch youtube series</>
+<p>This is services page from scratch youtube series</p>
 @endsection
